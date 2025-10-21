@@ -22,6 +22,3 @@ The application demonstrates the core user journey for tracking daily activities
 * **Navigation:** Jetpack Compose Navigation
 * **Purpose:** UI/UX Design Simulation (Uses local mock data only)
 
-## Disclaimer
-
-This is a **non-commercial, educational design project** created for portfolio purposes. It does not contain live backend logic or data persistence.
