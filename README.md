@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# ✍️ Daily Activity Tracker - Compose UI/UX Design
+#  Daily Activity Tracker - Compose UI/UX Design
 
 This project is a **Daily Activity Tracker** application developed entirely with **Jetpack Compose**. It serves as a **UI/UX design prototype** to showcase skills in building modern, responsive mobile interfaces.
 
